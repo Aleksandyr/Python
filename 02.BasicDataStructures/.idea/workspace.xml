@@ -24,8 +24,8 @@
       <file leaf-file-name="01.LimitTheLengthOfTheText.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01.LimitTheLengthOfTheText.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="68">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -34,8 +34,8 @@
       <file leaf-file-name="02.ManipulateTwoTexts.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/02.ManipulateTwoTexts.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -44,8 +44,8 @@
       <file leaf-file-name="03.AvgPriceForMedicine.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/03.AvgPriceForMedicine.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state relative-caret-position="200">
+              <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -63,9 +63,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/01.LimitTheLengthOfTheText.py" />
-        <option value="$PROJECT_DIR$/02.ManipulateTwoTexts.py" />
         <option value="$PROJECT_DIR$/03.AvgPriceForMedicine.py" />
+        <option value="$PROJECT_DIR$/02.ManipulateTwoTexts.py" />
+        <option value="$PROJECT_DIR$/01.LimitTheLengthOfTheText.py" />
       </list>
     </option>
   </component>
@@ -129,7 +129,7 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Python.03.AvgPriceForMedicine">
+  <component name="RunManager" selected="Python.01.LimitTheLengthOfTheText">
     <configuration default="false" name="01.LimitTheLengthOfTheText" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -322,9 +322,9 @@
     </list>
     <recent_temporary>
       <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.03.AvgPriceForMedicine" />
-        <item index="1" class="java.lang.String" itemvalue="Python.02.ManipulateTwoTexts" />
-        <item index="2" class="java.lang.String" itemvalue="Python.01.LimitTheLengthOfTheText" />
+        <item index="0" class="java.lang.String" itemvalue="Python.01.LimitTheLengthOfTheText" />
+        <item index="1" class="java.lang.String" itemvalue="Python.03.AvgPriceForMedicine" />
+        <item index="2" class="java.lang.String" itemvalue="Python.02.ManipulateTwoTexts" />
       </list>
     </recent_temporary>
   </component>
@@ -418,7 +418,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/02.ManipulateTwoTexts" />
-    <entry file="file://$PROJECT_DIR$/02.ManipulateTwoTexts.py">
+    <entry file="file://$PROJECT_DIR$/01.LimitTheLengthOfTheText.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
@@ -426,18 +426,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01.LimitTheLengthOfTheText.py">
+    <entry file="file://$PROJECT_DIR$/02.ManipulateTwoTexts.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/03.AvgPriceForMedicine.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state relative-caret-position="200">
+          <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
           <folding />
         </state>
       </provider>

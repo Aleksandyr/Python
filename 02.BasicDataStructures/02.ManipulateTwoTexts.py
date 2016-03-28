@@ -1,4 +1,4 @@
-firstText = input('Enter first text:')
-secondText = input('Enter second text:')
+first_text = input('Enter first text:')
+second_text = input('Enter second text:')
 
-print(firstText.split(secondText, 1)[-1].strip())
+print(first_text.split(second_text, 1)[-1].strip())
