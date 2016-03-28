@@ -41,11 +41,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="03.AvgPriceForMedicine.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="03.AvgPriceForMedicine.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/03.AvgPriceForMedicine.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
               <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+              <folding>
+                <marker date="1459173807328" expanded="true" signature="84:206" placeholder="..." />
+                <marker date="1459173807328" expanded="true" signature="352:409" placeholder="..." />
+                <marker date="1459173807328" expanded="true" signature="427:484" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05.CommonInterests.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/05.CommonInterests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -66,6 +80,7 @@
         <option value="$PROJECT_DIR$/03.AvgPriceForMedicine.py" />
         <option value="$PROJECT_DIR$/02.ManipulateTwoTexts.py" />
         <option value="$PROJECT_DIR$/01.LimitTheLengthOfTheText.py" />
+        <option value="$PROJECT_DIR$/05.CommonInterests.py" />
       </list>
     </option>
   </component>
@@ -129,7 +144,7 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Python.01.LimitTheLengthOfTheText">
+  <component name="RunManager" selected="Python.05.CommonInterests">
     <configuration default="false" name="01.LimitTheLengthOfTheText" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -177,6 +192,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="02.BasicDataStructures" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03.AvgPriceForMedicine.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="05.CommonInterests" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="02.BasicDataStructures" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05.CommonInterests.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -315,16 +347,18 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.01.LimitTheLengthOfTheText" />
       <item index="1" class="java.lang.String" itemvalue="Python.02.ManipulateTwoTexts" />
       <item index="2" class="java.lang.String" itemvalue="Python.03.AvgPriceForMedicine" />
+      <item index="3" class="java.lang.String" itemvalue="Python.05.CommonInterests" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.01.LimitTheLengthOfTheText" />
-        <item index="1" class="java.lang.String" itemvalue="Python.03.AvgPriceForMedicine" />
-        <item index="2" class="java.lang.String" itemvalue="Python.02.ManipulateTwoTexts" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.05.CommonInterests" />
+        <item index="1" class="java.lang.String" itemvalue="Python.01.LimitTheLengthOfTheText" />
+        <item index="2" class="java.lang.String" itemvalue="Python.03.AvgPriceForMedicine" />
+        <item index="3" class="java.lang.String" itemvalue="Python.02.ManipulateTwoTexts" />
       </list>
     </recent_temporary>
   </component>
@@ -353,7 +387,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -405,7 +439,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1459173807328" expanded="true" signature="84:206" placeholder="..." />
+            <marker date="1459173807328" expanded="true" signature="352:409" placeholder="..." />
+            <marker date="1459173807328" expanded="true" signature="427:484" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -438,6 +476,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+          <folding>
+            <marker date="1459173807328" expanded="true" signature="84:206" placeholder="..." />
+            <marker date="1459173807328" expanded="true" signature="352:409" placeholder="..." />
+            <marker date="1459173807328" expanded="true" signature="427:484" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05.CommonInterests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
